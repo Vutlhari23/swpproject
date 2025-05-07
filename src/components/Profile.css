@@ -1,0 +1,24 @@
+.profile-page {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.profile-info {
+  background-color: #f8f9fa;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.profile-info p {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.profile-form h2 {
+  color: #495057;
+}
+
+.card {
+  border-radius: 10px;
+}
