@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swpproject/static/css/main.d5cf0bcc.css",
+    "main.js": "/swpproject/static/js/main.8947a133.js",
+    "static/js/453.8060ab63.chunk.js": "/swpproject/static/js/453.8060ab63.chunk.js",
+    "index.html": "/swpproject/index.html",
+    "main.d5cf0bcc.css.map": "/swpproject/static/css/main.d5cf0bcc.css.map",
+    "main.8947a133.js.map": "/swpproject/static/js/main.8947a133.js.map",
+    "453.8060ab63.chunk.js.map": "/swpproject/static/js/453.8060ab63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5cf0bcc.css",
+    "static/js/main.8947a133.js"
+  ]
+}
